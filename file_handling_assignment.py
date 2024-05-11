@@ -3,7 +3,7 @@ with open("my_file.txt", "r") as file:
 print(content)
 
 with open("my_file.txt", "a") as file:
-    file.write("Hower I am still in week 9\n"+"I shuld pull my socks to fininsh in time\n")
+    file.write("However I am still in week 9\n"+"I shuld pull my socks to fininsh in time\n")
     file.write("Though its a bit challenging")
 
 try:
